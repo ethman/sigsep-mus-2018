@@ -19,7 +19,7 @@ This is the ``nussl`` implementation of the ideal mask. Ideal mask generates a m
 based on the known reference sources. This is the best any mask-based algorithm could ever hope
 to achieve because it uses ground truth to calculate the masks. 
 
-This is used a benchmark algorithm.
+This is used a benchmark algorithm. This implementation makes soft masks.
 
 ## References
 
